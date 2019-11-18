@@ -1,0 +1,111 @@
+/**HEADER**/
+.foto{
+    width: 8rem;
+    height: 10rem;
+    padding-bottom: 1rem;
+}
+
+.contenedorheader{
+    width: 40rem;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 1rem;
+}
+.iniciositio{
+    display: flex;
+    justify-content: center;
+    background-color: yellow;
+}
+h1 {
+    font-size: 3.5rem;
+    margin: 2rem 0 -1.7rem 0;
+}
+.htres{
+    padding: 0 0 0 1.5rem;
+    color: #e02a00;
+}
+
+/**BODY**/
+/**SECCION PERFIL PROFESIONAL**/
+.border{
+    
+    border: 1px 1px 1px 1px;
+    color: black;
+    margin: 10px;
+}
+h2{
+    text-align: center;
+    color: #e02a00;
+}
+.inicioperfil{
+    display: flex;
+    justify-content: space-around;
+}
+.parrafoperfil{
+    max-width: 100%;
+    width: 20rem;
+    display: block;
+    padding: 0 4rem 0 2rem;
+    text-align: justify;
+}
+.parrafocontacto{
+    display: block;
+    max-width: 100%;
+    margin: 0 0 0 10rem;
+    width: 25rem;
+}
+.parraforedes{
+    display: block;
+    max-width: 150px;
+    margin: 0 0 0 0;
+}
+.iconoredes{
+    max-width: 100%;
+    width: 3rem;
+    height: 3rem;
+}
+
+/**SECCION EXPERIENCIA LABORAL**/
+
+.parrafoexperiencia{
+    display: flex;
+}
+
+/**SECCION HABILIDADES TECNICAS**/
+
+.parrafohabilidades{
+    display: flex;
+}
+
+/**SECCION EDUCACION**/
+
+.parrafoeducacion{
+    display: flex;
+
+}
+.parrafosena{
+    margin: 0 0 0 5rem;
+}
+/**SECCION PORTAFOLIO**/
+
+.parrafoportafolio{
+    display: flex;
+    margin: 0 0 3rem 0;
+}
+
+.parrafoimagenes{
+    display: flex;
+    justify-content: space-around;
+}
+.parrafo{
+    width: 50rem;
+}
+.parrafocliente{
+    margin: 0 1rem 0 4rem;
+}
+.parrafocliente2{
+    margin: 3rem 2rem 0 0;
+}
+.parrafocliente3{
+    margin: 3rem 0 0 0;
+}
